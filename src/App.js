@@ -16,11 +16,11 @@ function App() {
       url: "https://social-media-video-downloader.p.rapidapi.com/smvd/get/all",
       params: {
         url: videoUrl,
-        filename: "download",
+        filename: "Test video",
       },
       headers: {
-        "X-RapidAPI-Key": "824dddee65msh76dbe040b14bfe4p12ab6ajsnc6532155d4f8",
-        "X-RapidAPI-Host": "social-media-video-downloader.p.rapidapi.com",
+        'X-RapidAPI-Key': '837f711953msh010d74bb5cbbce8p1cb89ejsnd35818409dd4',
+        'X-RapidAPI-Host': 'social-media-video-downloader.p.rapidapi.com'
       },
     };
 
